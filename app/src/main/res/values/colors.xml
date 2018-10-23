@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#536dfe</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="vote_perfect">#1b5e20</color>
+    <color name="vote_good">#4caf50</color>
+    <color name="vote_normal">#757575</color>
+    <color name="vote_bad">#f44336</color>
+</resources>
